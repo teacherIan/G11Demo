@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+.container {}
+
+
+
+.inner-container-one {
+
+    background-color: #A31621
+}
+
+.inner-container-two {
+
+    background-color: #4E8098
+}
+
+.fullscreen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-size: calc(5vh + 5vw + 10px)
+}
+
+.menu {
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    background-color: #90C2E7
+}
